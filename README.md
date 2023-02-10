@@ -41,7 +41,7 @@ Micro Tools adalah ekstensi chrome, kumpulan alat-alat atau Bot Facebook.
 <br />
 <h2>🤷 Tutorial cara pasang atau install</h2>
 
-<p>Sebelum melakukan tahap pasang atau update silahkan download ➡️ <a target="_blank" href="https://github.com/lumine-id/micro-tools/archive/refs/heads/master.zip">Micro Tools v0.0.4</a> terlebih dahulu (klik tulisan biru untuk mendownload). jika sudah ikuti tahap dibawah ini</p>
+<p>Sebelum melakukan tahap pasang atau update silahkan download ➡️ <a target="_blank" href="https://github.com/lumine-id/micro-tools/archive/refs/heads/master.zip">Micro Tools v0.0.5</a> terlebih dahulu (klik tulisan biru untuk mendownload). jika sudah ikuti tahap dibawah ini</p>
 
 <ul>
   <li>
