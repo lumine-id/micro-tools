@@ -14,7 +14,7 @@
         "cookies",
         "declarativeNetRequest",
         "notifications",
-        "clipboardRead"
+        "scripting"
     ],
     "host_permissions": [
         "*://*/*"
